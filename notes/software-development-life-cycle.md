@@ -4,6 +4,8 @@
 
 A software development process that involves several distinct stages; **requirements analysis**, **design**, **implementation**, **testing**, **documentation**, **deployment**, and **maintenance**.
 
+![[software-development-life-cycle-stages.png]]
+
 ## Software Development Life Cycle (SDLC) Model or Methodology
 
 Describes how to conduct the SDLC stages to develop software with the highest quality and lowest cost in the shortest time.
