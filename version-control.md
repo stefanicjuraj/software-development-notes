@@ -81,3 +81,5 @@ In a DVCS, clients fully mirror the the repository. If any server dies, any of t
 ### Merging
 
 - Version control checks for collisions on commits and attempts to automatically merge the file. If not possible, provides the developer with ability to merge changes manually.
+
+[View Version Control - Git](version-control-git)
