@@ -7,6 +7,7 @@ The collection can be viewed and read in two ways: by browsing markdown software
 ## Topics:
 
 - [**Agile Model**]()
+- [**Git Cheatsheet**]()
 - [**Scrum Framework**]()
 - [**Software Development Life Cycle**]()
 - [**Version Control - Git**]()
