@@ -2,6 +2,8 @@
 
 Git is a free and open source distributed version control system invented by Linus Torvalds. Linus originally developed Git in order to help him manage the work of maintaining the Linux Kernel.
 
+[View Git cheatsheet](git-cheatsheet)
+
 ## Git Internals
 
 The change is being recorded as a tree of objects. Every object is identified by its SHA-1 hash. There are 4 types of objects.
