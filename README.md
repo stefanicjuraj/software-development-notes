@@ -13,3 +13,13 @@ The collection can be viewed and read in two ways: by browsing markdown software
 - [**Version Control - Git**]()
 - [**Version Control**]()
 - [**Waterfall Model**]()
+
+## Technology:
+
+[![obsidian][obsidian]][obsidian-url]
+[![markdown][markdown]][markdown-url]
+
+[obsidian]: https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white
+[obsidian-url]: https://obsidian.md/
+[markdown]: https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[markdown-url]: https://www.markdownguide.org/
