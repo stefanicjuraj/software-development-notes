@@ -9,4 +9,6 @@ The collection can be viewed and read in two ways: by browsing markdown software
 - [**Agile Model**]()
 - [**Scrum Framework**]()
 - [**Software Development Life Cycle**]()
+- [**Version Control - Git**]()
+- [**Version Control**]()
 - [**Waterfall Model**]()
