@@ -164,3 +164,15 @@ If you changed the same part of the same file differently in the two branches yo
 3. Once you have test your feature and got everything working, merge your changes back into the master branch.
 4. You may delete the feature branch.
 5. Deploy the master.
+
+## Hosting Remote Repositories
+
+There are a lot of services available that will provide hosting remote repositories for you, usually free of charge.
+
+- GitHub
+- GitLab
+- Assembla
+- Bitbucket
+- CloudForge
+- Gitorious
+- Unfuddle
