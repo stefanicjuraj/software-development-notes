@@ -6,9 +6,9 @@ The collection can be viewed and read in two ways: by browsing markdown software
 
 ## Topics:
 
-- [**Agile Model**](/agile-model)
+- [**Agile Model**](agile-model)
 - [**Build Utilities**](build-utilities)
-- [**Git Cheatsheet**](/git-cheatsheet)
+- [**Git Cheatsheet**](git-cheatsheet)
 - [**Scrum Framework**](scrum-framework)
 - [**Software Development Life Cycle**](software-development-life-cycle)
 - [**Version Control - Git**](version-control-git)
