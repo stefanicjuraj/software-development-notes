@@ -128,6 +128,15 @@ A branch represents an independent line of development. The diagram visualizes a
 
 A branch in Git is simply a movable pointer to one of the commits. The default branch name in Git is **master**. The master branch points to the last commit you made. Every time you commit, it moves forward automatically.
 
+### `git clone`
+
+Get a local copy of a repository that is available on a remote server, you will have to clone it.
+
+If you look inside the clone directory, all of your project files are there. he  
+`git log` will list all of your project history.
+
+When you make the clone, Git automatically sets up the original repo as a remote repository named **origin** for the clone to connect to.
+
 ### `git branch`
 
 The `git branch` command lets you create, list, rename, and delete branches. It doesn’t let you switch between branches. For this, you use the `git checkout` and `git merge` commands.
