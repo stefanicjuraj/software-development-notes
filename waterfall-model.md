@@ -1,4 +1,4 @@
-# waterfall-model
+# Waterfall Model
 
 The Waterfall approach to software development was the first established modern approach to building a system.
 

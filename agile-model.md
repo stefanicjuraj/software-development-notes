@@ -1,4 +1,4 @@
-# agile-model
+# Agile Model
 
 In February 2001, software developers met at the Snowbird ski resort in Utah to discuss lightweight development methods (developing software using less resources and less time). They composed and published the [Agile Manifesto](https://agilemanifesto.org/)
 
