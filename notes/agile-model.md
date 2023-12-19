@@ -71,3 +71,7 @@ Scrum and related variants continue to be the most common Agile approach used by
 Scrum and related variants continue to be the most common Agile approach used by organizations (https://stateofagile.com , 2021 report),
 
 ![[state-of-agile-2021.png]]
+
+---
+
+[**`View Waterfall Model`**](waterfall-model)
