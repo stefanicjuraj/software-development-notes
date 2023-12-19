@@ -7,6 +7,7 @@ The collection can be viewed and read in two ways: by browsing markdown software
 ## Topics:
 
 - [**Agile Model**]()
+- [**Binary Code Analysis**]()
 - [**Build Servers**]()
 - [**Build Utilities**]()
 - [**Dynamic Code Analysis**]()
