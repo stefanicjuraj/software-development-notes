@@ -31,3 +31,7 @@ Tight control is conducted through the use of extensive written documentation, f
 - Technology is understood
 - New version of an existing product needs to be released
 - Porting an existing product to a new platform
+
+---
+
+[**`View Agile Model`**](agile-model)
