@@ -10,6 +10,7 @@ The collection can be viewed and read in two ways: by browsing markdown software
 - [**Build Servers**](build-servers)
 - [**Build Utilities**](build-utilities)
 - [**Git Cheatsheet**](git-cheatsheet)
+- [**GitLab Flow**](gitlab-flow)
 - [**Scrum Framework**](scrum-framework)
 - [**Software Development Life Cycle**](software-development-life-cycle)
 - [**Version Control - Git**](version-control-git)
