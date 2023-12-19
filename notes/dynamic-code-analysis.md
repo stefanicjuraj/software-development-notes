@@ -57,3 +57,4 @@ Profilers are not just measuring a snapshot of the application, its memory, its 
 ---
 
 [**`View Static Code Analysis`**](static-code-analysis)
+[**`View Binary Code Analysis`**](binary-code-analysis)

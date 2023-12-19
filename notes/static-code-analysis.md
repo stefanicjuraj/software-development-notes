@@ -41,3 +41,4 @@ It can act as a first pass in the code review process, flagging potential issues
 ---
 
 [**`View Dynamic Code Analysis`**](dynamic-code-analysis)
+[**`View Binary Code Analysis`**](binary-code-analysis)
