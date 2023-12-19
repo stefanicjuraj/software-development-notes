@@ -1,5 +1,10 @@
 # software-development-notes
 
+<div align="center">
+<img src="/lib/assets/software-development-notes.png">
+<div>
+<br />
+
 My collection of software development notes taken using [Obsidian](https://obsidian.md/) during Bachelor of Science studies at [Rochester Institute of Technology](https://www.rit.edu/).
 
 View collection by browsing markdown software development notes files (topics) within the **`notes`** directory, or by accessing the [**software development notes web version**](https://software-development-notes.netlify.app/).
