@@ -10,7 +10,7 @@ When you commit the changes to your GitLab repository, the runner run your jobs.
 
 ## Git Workflows
 
-In Git, you add files from the working copy to the staging area. After that, you commit them to your local repository. The third step is pushing to a shared remote repository.
+In [Git](version-control-git), you add files from the working copy to the staging area. After that, you commit them to your local repository. The third step is pushing to a shared remote repository.
 
 After getting used to these three steps, the next challenge is the branching model. Git allows a wide variety of branching strategies and workflows. Because of this, many organizations end up with workflows that are too complicated, not clearly defined, or not integrated with issue tracking systems.
 
