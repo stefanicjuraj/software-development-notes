@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="/lib/assets/software-development-notes.png">
-<div>
+</div>
 <br />
 
 My collection of software development notes taken using [Obsidian](https://obsidian.md/) during Bachelor of Science studies at [Rochester Institute of Technology](https://www.rit.edu/).
