@@ -14,6 +14,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**Binary Code Analysis**]()
 - [**Build Servers**]()
 - [**Build Utilities**]()
+- [**Code Obfuscation**]()
 - [**Dynamic Code Analysis**]()
 - [**Git Cheatsheet**]()
 - [**GitLab Flow**]()
