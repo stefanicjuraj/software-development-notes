@@ -20,6 +20,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**GitLab Flow**]()
 - [**PHP**]()
 - [**Scrum Framework**]()
+- [**Software Deployment**]()
 - [**Software Development Life Cycle**]()
 - [**Software Testing**]()
 - [**Static Code Analysis**]()
