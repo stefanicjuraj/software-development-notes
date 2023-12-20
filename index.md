@@ -15,6 +15,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**Git Cheatsheet**](git-cheatsheet)
 - [**GitLab Flow**](gitlab-flow)
 - [**PHP**](php)
+- [**Routing**](routing)
 - [**Scrum Framework**](scrum-framework)
 - [**Software Deployment**](software-deployment)
 - [**Software Development Life Cycle**](software-development-life-cycle)
