@@ -14,6 +14,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**Dynamic Code Analysis**](dynamic-code-analysis)
 - [**Git Cheatsheet**](git-cheatsheet)
 - [**GitLab Flow**](gitlab-flow)
+- [**PHP Database Connectivity**](php-database-connectivity)
 - [**PHP**](php)
 - [**Routing**](routing)
 - [**Scrum Framework**](scrum-framework)
