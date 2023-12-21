@@ -223,3 +223,7 @@ After the file is included, PHP parsing mode is restored.
 Included files do not have to have any particular extension (common practice: `.inc`, OR `.php`). 
 
 Include files do not have to be on the same server, and can be fetched with http.
+
+---
+
+[**`View PHP Database Connectivity`**](php-database-connectivity)
