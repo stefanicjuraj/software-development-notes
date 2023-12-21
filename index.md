@@ -16,6 +16,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**GitLab Flow**](gitlab-flow)
 - [**PHP Database Connectivity**](php-database-connectivity)
 - [**PHP**](php)
+- [**RESTful Web Services**](restful-web-services)
 - [**Routing**](routing)
 - [**Scrum Framework**](scrum-framework)
 - [**Software Deployment**](software-deployment)
