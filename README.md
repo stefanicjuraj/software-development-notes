@@ -25,6 +25,7 @@ View collection by browsing markdown software development notes files (topics) w
 - [**Dynamic Code Analysis**]()
 - [**Git Cheatsheet**]()
 - [**GitLab Flow**]()
+- [**Google Technical Writing Course**]()
 - [**PHP Database Connectivity**]()
 - [**PHP**]()
 - [**RESTful Web Services**]()
