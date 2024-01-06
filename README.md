@@ -10,7 +10,7 @@ View collection by browsing markdown software development notes files (topics) w
 <br>
 <br>
 
-**[software-development-notes.netlify.app](https://https://software-development-notes.netlify.app/)**
+**[software-development-notes.netlify.app](https://software-development-notes.netlify.app/)**
 
 </div>
 
